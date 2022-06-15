@@ -1,0 +1,15 @@
+.slider-bg{
+    background: #fbe6e6;
+}
+
+.content-text{
+    margin-top: 100px;
+    padding-left: 20px;
+}
+.buy-now-button{
+    color: white;
+    background-color: rgb(243, 37, 71);
+    border: none;
+    padding: 8px 22px;
+    border-radius: 5px;
+}
